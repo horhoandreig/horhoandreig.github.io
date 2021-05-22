@@ -222,7 +222,7 @@ header{
 @media (max-width: 769px), (max-width: 825px) and (orientation: landscape){
     .hero{
         padding: 0 5rem;
-        height: 100vh;
+        height: calc(100vh - 8rem);
         min-height: auto;
     }
     .hero h1{
