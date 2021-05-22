@@ -420,7 +420,7 @@ footer{
         margin-bottom: 1rem;
     }
 
-@media(max-width: 440px){
+@media(max-width: 825px){
     .section-block-footer{
         padding: 5rem;
     }
