@@ -193,7 +193,7 @@ header{
 .hero{
     display: flex;
     align-items: center;
-    padding: 0 10rem 30vh;
+    padding: 0 10rem;
     background-image:  url("assets/banner.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -357,10 +357,10 @@ header{
     }
 
     .about-me-inner-container > img{
-        width: 50rem;
+        width: 90rem;
         height: 50rem;
         border-radius: 50%;
-        margin-right: 5rem;
+        margin-right: 10rem;
     }
 
     .about-me-inner-container h3{
