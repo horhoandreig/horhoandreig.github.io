@@ -19,7 +19,7 @@ html{
 /* Section */
 
 .section-block{
-    /* height: calc(100vh - 8rem); */
+    height: calc(100vh - 8rem);
     padding: 5rem;
     box-shadow: 0 0px 20px rgba(249,90,89,255);
 }
