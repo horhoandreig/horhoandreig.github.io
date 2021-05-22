@@ -114,6 +114,13 @@ html{
     }
 }
 
+@media (max-width: 680px){
+    .splash img{
+        height: 25rem;
+        width: 25rem;
+    }
+}
+
 .fade-in{
     opacity: 0;
     animation: fadeIn 1s ease-in forwards;
