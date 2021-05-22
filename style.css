@@ -223,6 +223,7 @@ header{
     .hero{
         height: calc(100vh - 8rem);
         padding: 0 5rem;
+        min-height: auto;
     }
     .hero h1{
         display: block;
