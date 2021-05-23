@@ -374,8 +374,8 @@ header{
     }
 
     .about-me-inner-container > img{
-        width: 90vh;
-        height: 50vh;
+        width: 40vh;
+        height: auto;
         border-radius: 50%;
         margin-right: 10rem;
     }
@@ -396,8 +396,6 @@ header{
     }
 
     .about-me-inner-container > img{
-        width: 20rem;
-        height: 30rem;
         margin-right: 0;
         margin-bottom: 2rem;
     }
