@@ -238,7 +238,7 @@ header{
         top: 0;
         left: 0;
         padding: 0 2.5rem;
-        max-height: 100vh;
+        /* max-height: 100vh; */
     }
     .hero h1{
         display: block;
@@ -249,7 +249,7 @@ header{
         font-size: 1.4rem;
     }
 }
-
+/* 
 @media(max-width: 440px), (max-width: 824px) and (orientation: landscape){
     .hero{
         top: 0;
@@ -260,7 +260,7 @@ header{
     /* .hero h1{
         padding: 2.5rem 0 0 0;
     } */
-}
+} */
 
 /* Hero */
 
