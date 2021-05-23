@@ -251,7 +251,7 @@ header{
     }
 }
 
-@media (max-height: 510px), (max-height: 510px) and (orientation: landscape){
+@media (max-height: 700px), (max-height: 700px) and (orientation: landscape){
     .hero h1{
         display: none;
     }
