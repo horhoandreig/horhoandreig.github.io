@@ -238,7 +238,6 @@ header{
         top: 0;
         left: 0;
         padding: 0 2.5rem;
-        height: auto;
     }
     .hero h1{
         display: block;
@@ -254,14 +253,12 @@ header{
     .hero{
         top: 0;
         left: 0;
-        padding: 2.5rem;
-        /* min-height: calc(100vh - 8rem); */
-        height: auto;
+        min-height: 100vh;
     }
 
-    .hero h1{
+    /* .hero h1{
         padding: 2.5rem 0 0 0;
-    }
+    } */
 }
 
 /* Hero */
